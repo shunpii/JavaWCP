@@ -8,7 +8,7 @@ public class switch01 {
         case 2:
             System.out.println("ふつうでした!");
             break;
-        case 1:
+        default:
             System.out.println("がんばろう!");
         }
     }
